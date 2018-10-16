@@ -11,7 +11,7 @@ class DBHelper {
     const port = 8000 // Change this to your server port
     
     //return `https://localhost:${port}/data/restaurants.json`;
-      return 'https://devintylerross.github.io/RestaurantReviewsImproved.github.io/data/restaurants.json';
+      return './data/restaurants.json';
   }
 
   /**
